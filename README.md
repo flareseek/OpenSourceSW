@@ -2,4 +2,4 @@
 
 ## 2024 오픈소스 SW 활용 과제 Repository
 
-# week 13  s2 conflict test
+# week 13  s2 merge test
